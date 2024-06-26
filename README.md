@@ -2,7 +2,7 @@
 
 **Descrição:**
 
->Aplicacção simples que consome uma API de previsão do tempo.
+>Aplicação simples que consome uma API de previsão do tempo.
 
 <br> **Status do Projeto:**
 >Concluído.
